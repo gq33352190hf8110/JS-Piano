@@ -2,7 +2,7 @@
  * JS piano plugin for jquery
  * @method piano
  * @version 1.0.0
- * @author Panagiotis Vourtsis <vourtsis_pan@hotmail.com>
+ * @author Panagiotis Vourtsis <panos@inspired-mobile.com>
  */
 (function($) {
 
